@@ -1,0 +1,6 @@
+langauge: "node_js"
+
+node_js:
+  - 0.6
+
+before_install: ./travis/before_install.sh

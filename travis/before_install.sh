@@ -1,4 +1,4 @@
-sudo aptitude install \
+sudo aptitude -y install \
     scons\
     git-core\
     python-support\

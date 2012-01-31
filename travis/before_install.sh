@@ -4,7 +4,6 @@ sudo aptitude update \
     git-core\
     python-support\
     debhelper\
-    #python-all-dev\
     libboost-thread-dev\
     libboost-filesystem-dev\
     libboost-regex-dev\

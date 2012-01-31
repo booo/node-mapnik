@@ -31,5 +31,5 @@ sudo aptitude update \
     && git clone https://github.com/mapnik/mapnik \
     && cd mapnik \
     && ./configure \
-    && ./make -j4 \
+    && make -j4 \
     && cd ..
